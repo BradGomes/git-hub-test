@@ -1,3 +1,3 @@
 About Us 
 <br />
-A test project!
+A test project for git!
